@@ -1,5 +1,3 @@
-# STARTUP
-
 # To work localy
 
 For backend:
